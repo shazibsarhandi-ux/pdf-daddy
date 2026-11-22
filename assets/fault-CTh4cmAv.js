@@ -1,0 +1,1 @@
+import{B as e}from"./mupdf-DnGlUSHn.js";function t(){const r=new e(0);r.pointer=4294967280;try{r.getLength()}finally{r.pointer=0}throw new Error("The engine did not trap")}export{t as triggerEngineTrap};
